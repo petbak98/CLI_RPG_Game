@@ -2,7 +2,7 @@
 #include "Item.h"
 class Armor :
 	public Item
-//yo m
+//yo mefgedr
 	
 {
 public:
