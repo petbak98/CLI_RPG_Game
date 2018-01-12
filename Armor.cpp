@@ -2,7 +2,7 @@
 
 Armor::Armor()
 {
-	DamageReduction = 0;
+	DamageReduction = 1;
 }
 
 
