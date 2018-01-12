@@ -2,6 +2,8 @@
 #include "Item.h"
 class Armor :
 	public Item
+
+	//hello there
 {
 public:
 	Armor();
