@@ -1,5 +1,7 @@
 #include "Armor.h"
 
+
+
 Armor::Armor()
 {
 	DamageReduction = 1;
