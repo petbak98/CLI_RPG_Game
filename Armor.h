@@ -2,7 +2,6 @@
 #include "Item.h"
 class Armor :
 	public Item
-//yo man
 	
 {
 public:
