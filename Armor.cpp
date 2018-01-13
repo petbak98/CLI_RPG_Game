@@ -5,6 +5,7 @@ Armor::Armor()
 	DamageReduction = 1;
 }
 
+//lel lel
 
 Armor::~Armor()
 {
